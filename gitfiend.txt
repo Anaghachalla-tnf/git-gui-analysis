@@ -2,7 +2,7 @@ Hello, this is to test gitfiend.
 
 Tested the following:
 1. Clone a repo, create a repo, go to a locally existing repo
-2. Creating a branch (from any base branch)
+2. Creating a branch (from any base branch), deleting an unpublished branch
 3. Branch checkout
 4. Searching for a branch, commit, user
 5. Merging the changes in a branch to another branch
