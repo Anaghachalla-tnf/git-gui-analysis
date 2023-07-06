@@ -1,3 +1,24 @@
 Hello, this is to test gitfiend.
 
-Analysis is going well, ig
+Tested the following:
+1. Clone a repo, create a repo, go to a locally existing repo
+2. Creating a branch (from any base branch)
+3. Branch checkout
+4. Delete branch - local checkout, remote branch
+5. Searching for a branch, commit, user
+6. Merging the changes in a branch to another branch
+7. Viewing all changed, uncommited files
+8. Undo all local uncommited changes
+9. Committing changes
+10. List of commits are displayed
+11. Clicking on each commit will display the diff
+12. Deleting a local commit
+13. Reverting a commit (results into uncommited changes, which can be undone)
+14. Pull changes
+15. Push changes
+16. Automatically fetching new changes(commits) from the remote repo
+17. Merge conflict resolution:
+    1. Abort Merge
+    2. Add or remove lines
+    3. Re-arrange lines
+    4. After changes - save file
