@@ -16,3 +16,8 @@ Tested the following:
 13. Pull changes
 14. Push changes
 15. Automatically fetching new changes(commits) from the remote repo
+16. Merge conflict resolution:
+    1. Abort Merge
+    2. Add or remove lines
+    3. Re-arrange lines
+    4. After changes - save file
