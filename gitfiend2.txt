@@ -1,1 +1,2 @@
 gitfiend2
+testing merge conflict resolution
